@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+    color: #fff;
+}
+
+.tittle{
+    text-align: center;
+}
+
+.formNumber{
+    border: solid;
+    justify-items: center;
+    margin-top: 150px;
+}
+
+.button{
+    display: block;
+    margin-top: 20px;
+    background-color: green;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#message-error{
+    color: red;
+    border: solid;
+    text-align: center;
+    margin-top: 50px;
+    display: none;
+}
